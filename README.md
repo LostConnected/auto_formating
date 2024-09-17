@@ -10,3 +10,5 @@ if State = " " then input @30 Year;
 else input @30 City Year;
 input NumEmployees;
 ```
+## output file
+- output file name `data-inc.txt`
